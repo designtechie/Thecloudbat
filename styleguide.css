@@ -1,0 +1,286 @@
+:root {
+  --wwwwixcomwebsite-templateviewhtml302811815999755859375x6695999755859375defaultblack-haze: rgba(249, 250, 250, 1);
+  --wwwwixcomwebsite-templateviewhtml302811815999755859375x6695999755859375defaultnero: rgba(255, 255, 255, 1);
+  --wwwwixcomwebsite-templateviewhtml302811815999755859375x6695999755859375defaultebony-clay: rgba(32, 48, 60, 1);
+  --wwwwixcomwebsite-templateviewhtml302811815999755859375x6695999755859375defaultjapanese-laurel: rgba(
+    17,
+    109,
+    255,
+    1
+  );
+  --wwwwixcomwebsite-templateviewhtml302811815999755859375x6695999755859375defaultriver-bed: rgba(67, 81, 92, 1);
+  --wwwwixcomwebsite-templateviewhtml302811815999755859375x6695999755859375defaultblack: rgba(0, 0, 0, 1);
+  --wwwwixcomwebsite-templateviewhtml302811815999755859375x6695999755859375defaultcod-gray: rgba(17, 16, 16, 1);
+  --wwwwixcomwebsite-templateviewhtml302811815999755859375x6695999755859375defaultdove-gray: rgba(110, 110, 110, 1);
+  --wwwwixcomwebsite-templateviewhtml302811815999755859375x6695999755859375defaultmalachite: rgba(255, 191, 35, 1);
+  --wwwwixcomwebsite-templateviewhtml302811815999755859375x6695999755859375defaultcaribbean-green: rgba(
+    10,
+    203,
+    139,
+    1
+  );
+  --wwwwixcomwebsite-templateviewhtml302811815999755859375x6695999755859375defaultelf-green: rgba(7, 135, 93, 1);
+  --wwwwixcomwebsite-templateviewhtml302811815999755859375x6695999755859375defaultbright-turquoise: rgba(
+    255,
+    215,
+    239,
+    1
+  );
+  --wwwwixcomwebsite-templateviewhtml302811815999755859375x6695999755859375defaultcoral-red: rgba(254, 57, 60, 1);
+  --wwwwixcomwebsite-templateviewhtml302811815999755859375x6695999755859375defaultcornflower: rgba(145, 193, 237, 1);
+  --wwwwixcomwebsite-templateviewhtml302811815999755859375x6695999755859375defaultcornflower-40: rgba(
+    145,
+    193,
+    237,
+    0.4
+  );
+  --wwwwixcomwebsite-templateviewhtml302811815999755859375x6695999755859375defaultmalachite-40: rgba(255, 191, 35, 0.4);
+  --wwwwixcomwebsite-templateviewhtml302811815999755859375x6695999755859375defaultlavender-magenta: rgba(
+    242,
+    143,
+    224,
+    1
+  );
+  --wwwwixcomwebsite-templateviewhtml302811815999755859375x6695999755859375defaultmercury: rgba(232, 230, 230, 1);
+  --wwwwixcomwebsite-templateviewhtml302811815999755859375x6695999755859375defaulttuatara: rgba(31, 31, 30, 1);
+  --wwwwixcomwebsite-templateviewhtml302811815999755859375x6695999755859375defaultcerulean: rgba(255, 184, 242, 1);
+  --wwwwixcomwebsite-templateviewhtml302811815999755859375x6695999755859375defaultmercury-40: rgba(232, 230, 230, 0.4);
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-arial-narrow-16-font-family: "Arial-Narrow",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-arial-narrow-16-font-weight: 400;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-arial-narrow-16-font-size: 16px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-arial-narrow-16-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-arial-narrow-16-line-height: 42px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-arial-narrow-16-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-arial-narrow-14-underline-font-family: "Arial-Narrow",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-arial-narrow-14-underline-font-weight: 400;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-arial-narrow-14-underline-font-size: 14px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-arial-narrow-14-underline-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-arial-narrow-14-underline-line-height: 21px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-arial-narrow-14-underline-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-22-font-family: "SpaceGrotesk-Bold",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-22-font-weight: 700;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-22-font-size: 22px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-22-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-22-line-height: 30.799999237060547px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-22-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-16-font-family: "SpaceGrotesk-Bold",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-16-font-weight: 700;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-16-font-size: 16px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-16-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-16-line-height: 22.399999618530273px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-16-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-50-font-family: "SpaceGrotesk-Regular",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-50-font-weight: 400;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-50-font-size: 50px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-50-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-50-line-height: 55px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-50-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-38-font-family: "SpaceGrotesk-Regular",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-38-font-weight: 400;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-38-font-size: 38px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-38-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-38-line-height: 49.400001525878906px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-38-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-28-font-family: "SpaceGrotesk-Regular",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-28-font-weight: 400;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-28-font-size: 28px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-28-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-28-line-height: 42px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-28-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-18-font-family: "SpaceGrotesk-Bold",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-18-font-weight: 700;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-18-font-size: 18px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-18-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-18-line-height: 18px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-18-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-60-font-family: "SpaceGrotesk-Bold",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-60-font-weight: 700;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-60-font-size: 60px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-60-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-60-line-height: 72px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-60-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-12-font-family: "SpaceGrotesk-Regular",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-12-font-weight: 400;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-12-font-size: 12px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-12-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-12-line-height: 12px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-regular-12-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-14-font-family: "SpaceGrotesk-Bold",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-14-font-weight: 700;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-14-font-size: 14px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-14-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-14-line-height: 30px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-space-grotesk-bold-14-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-12-91-font-family: "Inter-Regular",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-12-91-font-weight: 400;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-12-91-font-size: 12.90625px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-12-91-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-12-91-line-height: 16.799999237060547px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-12-91-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-15-25-font-family: "Inter-Regular",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-15-25-font-weight: 400;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-15-25-font-size: 15.25px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-15-25-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-15-25-line-height: 50px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-15-25-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-63-font-family: "Inter-Regular",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-63-font-weight: 400;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-63-font-size: 14.625px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-63-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-63-line-height: 25.600000381469727px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-63-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-75-font-family: "Inter-Regular",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-75-font-weight: 400;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-75-font-size: 14.75px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-75-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-75-line-height: 25.600000381469727px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-75-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-5-font-family: "Inter-Regular",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-5-font-weight: 400;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-5-font-size: 14.5px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-5-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-5-line-height: 25.600000381469727px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-5-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-88-font-family: "Inter-Regular",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-88-font-weight: 400;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-88-font-size: 14.875px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-88-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-88-line-height: 25.600000381469727px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-88-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-18-59-font-family: "Inter-Regular",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-18-59-font-weight: 400;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-18-59-font-size: 18.59375px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-18-59-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-18-59-line-height: 28px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-18-59-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-13-34-font-family: "Inter-Regular",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-13-34-font-weight: 400;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-13-34-font-size: 13.34375px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-13-34-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-13-34-line-height: 16.799999237060547px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-13-34-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-13-02-font-family: "Inter-Regular",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-13-02-font-weight: 400;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-13-02-font-size: 13.015625px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-13-02-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-13-02-line-height: 16.799999237060547px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-13-02-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-12-58-font-family: "Inter-Regular",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-12-58-font-weight: 400;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-12-58-font-size: 12.578125px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-12-58-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-12-58-line-height: 16.799999237060547px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-12-58-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-13-13-font-family: "Inter-Regular",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-13-13-font-weight: 400;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-13-13-font-size: 13.125px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-13-13-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-13-13-line-height: 16.799999237060547px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-13-13-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-14-5-font-family: "Inter-Bold",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-14-5-font-weight: 700;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-14-5-font-size: 14.5px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-14-5-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-14-5-line-height: 25.600000381469727px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-14-5-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-14-25-font-family: "Inter-Bold",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-14-25-font-weight: 700;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-14-25-font-size: 14.25px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-14-25-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-14-25-line-height: 25.600000381469727px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-14-25-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-14-63-font-family: "Inter-Bold",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-14-63-font-weight: 700;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-14-63-font-size: 14.625px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-14-63-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-14-63-line-height: 25.600000381469727px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-14-63-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-12-8-font-family: "Inter-Regular",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-12-8-font-weight: 400;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-12-8-font-size: 12.796875px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-12-8-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-12-8-line-height: 21px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-12-8-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-11-06-font-family: "Inter-Regular",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-11-06-font-weight: 400;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-11-06-font-size: 11.0625px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-11-06-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-11-06-line-height: 12px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-11-06-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-17-34-font-family: "Inter-Bold",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-17-34-font-weight: 700;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-17-34-font-size: 17.34375px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-17-34-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-17-34-line-height: 28px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-17-34-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-17-81-font-family: "Inter-Bold",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-17-81-font-weight: 700;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-17-81-font-size: 17.8125px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-17-81-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-17-81-line-height: 28px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-17-81-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-15-font-family: "Inter-Regular",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-15-font-weight: 400;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-15-font-size: 15px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-15-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-15-line-height: 25.600000381469727px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-15-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-18-28-font-family: "Inter-Bold",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-18-28-font-weight: 700;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-18-28-font-size: 18.28125px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-18-28-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-18-28-line-height: 28px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-18-28-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-38-font-family: "Inter-Regular",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-38-font-weight: 400;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-38-font-size: 14.375px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-38-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-38-line-height: 16px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-regular-14-38-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-17-97-font-family: "Inter-Bold",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-17-97-font-weight: 700;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-17-97-font-size: 17.96875px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-17-97-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-17-97-line-height: 28px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-17-97-font-style: normal;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-18-91-font-family: "Inter-Bold",
+    Helvetica;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-18-91-font-weight: 700;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-18-91-font-size: 18.90625px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-18-91-letter-spacing: 0px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-18-91-line-height: 28px;
+  --www-wix-com-website-template-view-html-3028-1181-5999755859375x669-5999755859375-default-inter-bold-18-91-font-style: normal;
+}
